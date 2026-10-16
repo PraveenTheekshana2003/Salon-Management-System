@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Salon Management System/Salon Management System.vcxproj" Id="281e4d19-7791-4c62-a0ff-ee32fd9dcde7" />
+</Solution>
